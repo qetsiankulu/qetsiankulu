@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋🏾
+I'm **Qetsia (kets-ee-yuh)**, I am a Computer Science Student.
+I have taken courses in **Javascript**, **Java**, **C#**, **SQL**, **Python**.
+I have completed [Codepath](https://www.codepath.org/courses/ios-development)'s iOS Mobile Development Pathway (Intro & Intermediate). 
 
-<!--
-**qetsiankulu/qetsiankulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React.js*** and **Next.js** during my free time.
+- 🌱 I’m currently taking a class on **Data Structures and Algorithms** in Java. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- 📱 Mobile Development (iOS, Swift, SwiftUI, UIKit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/qetsiankulu/)
+
