@@ -14,6 +14,7 @@ Currently, I am **Computer Science Student** at **Santa Monica College (SMC)**.
 
 ## 🚀 Skills
 - 📱 Mobile Development (iOS, Swift, SwiftUI, UIKit)
+- 🖥️ Web Applications (React.js, Next.js)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/qetsiankulu/)
