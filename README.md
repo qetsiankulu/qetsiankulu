@@ -7,10 +7,7 @@ I took the first step in my programming journey by enrolling at **UCLA Extension
 
 I have completed **[Codepath](https://www.codepath.org/courses/ios-development)**'s iOS Mobile Development Pathway (Intro & Intermediate). 
 
-Currently, I am **Computer Science Student** at **Santa Monica College (SMC)**. 
-
-- 🌱 I’m currently learning **React.js** and **Next.js** during my free time.
-- 🌱 I’m currently taking a class on **Data Structures and Algorithms** in Java. 
+- 🌱 I’m currently learning **React.js** and **Next.js** during my free time.. 
 
 ## 🚀 Skills
 - 📱 Mobile Development (iOS, Swift, SwiftUI, UIKit)
