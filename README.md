@@ -7,9 +7,10 @@ I took the first step in my programming journey by enrolling at **UCLA Extension
 
 I have completed **[Codepath](https://www.codepath.org/courses/ios-development)**'s iOS Mobile Development Pathway (Intro & Intermediate). 
 
-- 🌱 I’m currently learning **React.js** and **Next.js** during my free time.. 
+- 🌱 I’m currently learning **React.js** and **Next.js** during my free time.
+- 🚀 I’m currently leveling up my iOS development skills by building **[Afrigoal](https://github.com/qetsiankulu/afrigoal-afcon-2025)**, a fan-focused app for AFCON 2025. 
 
-## 🚀 Skills
+## 🔧 Skills
 - 📱 Mobile Development (iOS, Swift, SwiftUI, UIKit)
 - 🖥️ Web Applications (React.js, Next.js)
 
