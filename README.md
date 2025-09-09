@@ -5,16 +5,18 @@ I graduated from **UCLA** in 2022 with a Bachelor of Science in **Cognitive Scie
 
 I took the first step in my programming journey by enrolling at **UCLA Extension**. I took classes in **Javascript**, **Java**, **C#**, **SQL**, **Python**. In December 2023, I finished my certificate in **Applications Programming** with a **4.0 GPA**.
 
-To further strengthen my fundamentals in computer science, I pursued additional post-baccalaureate coursework at **Santa Monica College** to prepare for a graduate degree in computer science. 
+I continued with post-baccalaureate coursework in computer science at Santa Monica College. I took classes in **Computer Systems** and **Data Structures and Algorithms in Java** to strengthen my fundamentals and prepare for a graduate degree. 
 
 I have completed **[Codepath](https://www.codepath.org/courses/ios-development)**'s iOS Mobile Development Pathway (Intro & Intermediate). 
 
-- 🌱 I’m currently learning **React.js** and **Next.js** during my free time.
-- 🚀 I’m currently leveling up my iOS development skills by building **[Afrigoal](https://github.com/qetsiankulu/afrigoal-afcon-2025)**, a fan-focused app for AFCON 2025. 
+- 🌱 I’m learning **React.js** and **Next.js** during my free time.
+- 🏋🏾‍♀️ I'm grinding **Leetcode style** problems to bag an internship for Summer 2026! 
+- 🚀 I’m leveling up my iOS development skills by building **[Afrigoal](https://github.com/qetsiankulu/afrigoal-afcon-2025)**, a fan-focused app for AFCON 2025. 
 
 ## 🔧 Skills
 - 📱 Mobile Development (iOS, Swift, SwiftUI, UIKit)
 - 🖥️ Web Applications (React.js, Next.js)
+- ⚙️ Backend Development (Python, Firebase, REST APIs, Render)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/qetsiankulu/)
