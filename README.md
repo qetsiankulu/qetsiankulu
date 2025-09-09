@@ -9,14 +9,14 @@ I continued with post-baccalaureate coursework in computer science at **Santa Mo
 
 I have completed **[Codepath](https://www.codepath.org/courses/ios-development)**'s iOS Mobile Development Pathway (Intro & Intermediate). 
 
-- 🌱 I’m learning **React.js** and **Next.js** during my free time.
 - 🏋🏾‍♀️ I'm grinding **Leetcode style** problems to bag an internship for Summer 2026! 
 - 🚀 I’m leveling up my iOS development skills by building **[Afrigoal](https://github.com/qetsiankulu/afrigoal-afcon-2025)**, a fan-focused app for AFCON 2025. 
+- 🌱 I’m learning **React.js** and **Next.js** by building my portfolio at **[qetsia.com](https://www.qetsia.com/)**,
 
 ## 🔧 Skills
-- 📱 Mobile Development (iOS, Swift, SwiftUI, UIKit)
-- 🖥️ Web Applications (React.js, Next.js, Tailwind CSS, Vercel)
-- ⚙️ Backend Development (Python, Firebase, REST APIs, Render)
+- 📱 **Mobile Development** (iOS, Swift, SwiftUI, UIKit)
+- 🖥️ **Web Applications** (React.js, Next.js, Tailwind CSS, Vercel)
+- ⚙️ **Backend Development** (Python, Firebase, REST APIs, Render)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/qetsiankulu/)
