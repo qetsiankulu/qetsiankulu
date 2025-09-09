@@ -15,7 +15,7 @@ I have completed **[Codepath](https://www.codepath.org/courses/ios-development)*
 
 ## 🔧 Skills
 - 📱 Mobile Development (iOS, Swift, SwiftUI, UIKit)
-- 🖥️ Web Applications (React.js, Next.js)
+- 🖥️ Web Applications (React.js, Next.js, Tailwind CSS, Vercel)
 - ⚙️ Backend Development (Python, Firebase, REST APIs, Render)
 
 ## 📫 Contact
