@@ -14,8 +14,8 @@ I have completed **[Codepath](https://www.codepath.org/courses/ios-development)*
 - 🌱 I’m learning **React.js** and **Next.js** by building my portfolio at **[qetsia.com](https://www.qetsia.com/)**,
 
 ## 🔧 Skills
-- 📱 **Mobile Development** (iOS, Swift, SwiftUI, UIKit)
-- 🖥️ **Web Applications** (React.js, Next.js, Tailwind CSS, Vercel)
+- 📱 **iOS Development** (iOS, Swift, SwiftUI, UIKit, Xcode)
+- 🖥️ **Web Applications** (React.js, Next.js, Tailwind CSS, Vercel, VS Studio)
 - ⚙️ **Backend Development** (Python, Firebase, FastAPI, REST APIs, Render)
 
 ## 📫 Contact
