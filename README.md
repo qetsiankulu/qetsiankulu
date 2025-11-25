@@ -5,7 +5,7 @@ I graduated from **UCLA** in 2022 with a Bachelor of Science in **Cognitive Scie
 
 I took the first step in my programming journey by enrolling at **UCLA Extension**. I took classes in **Javascript**, **Java**, **C#**, **SQL**, **Python**. In December 2023, I finished my certificate in **Applications Programming** with a **4.0 GPA**.
 
-I continued with post-baccalaureate coursework in computer science and math at **Santa Monica College**. I took classes in **Computer Systems** and **Data Structures and Algorithms** to strengthen my fundamentals and prepare for a graduate degree. 
+I continued with post-baccalaureate coursework in computer science and math. I took classes in **Computer Systems**,  **Data Structures and Algorithms**, **Linear Algebra**, and **Multivariable Calculus** to strengthen my fundamentals and prepare for a graduate degree. 
 
 I have completed **[Codepath](https://www.codepath.org/courses/ios-development)**'s iOS Mobile Development Pathway (Intro & Intermediate). 
 
