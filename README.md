@@ -1,7 +1,7 @@
 # Hi there! 👋🏾
 I'm **Qetsia (kets-ee-yuh)**! 
 
-Check out my portfolio at [.qetsia.com](https://www.qetsia.com/)! 
+Learn more about me at [qetsia.com](https://www.qetsia.com/)! 
 
 ## 🔧 Skills
 - 📱 **iOS Development** (iOS, Swift, SwiftUI, UIKit, Xcode)
